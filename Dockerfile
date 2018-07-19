@@ -1,2 +1,2 @@
 FROM alpine
-RUN sleep 10
+RUN echo "I am a Dockerfile."
