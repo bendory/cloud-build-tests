@@ -1,5 +1,0 @@
-steps:
-  - name: 'alpine'
-    args: [ 'sleep', '2' ]
-  - name: 'alpine'
-    args: [ 'echo', 'sleeper slept' ]

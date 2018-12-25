@@ -1,3 +1,0 @@
-steps:
-  - name: 'alpine'
-    args: [ 'echo', 'frontend is building now' ]
