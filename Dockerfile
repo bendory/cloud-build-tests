@@ -1,2 +1,2 @@
 FROM alpine
-RUN echo "I am a Dockerfile."
+RUN echo "2020-02-07 12:03"
